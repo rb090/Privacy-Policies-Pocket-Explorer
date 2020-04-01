@@ -1,5 +1,7 @@
 # Privacy Policy
 
+Last Updated: 01.04.2020
+
 ### Name of the Software Developer
 
 Roxana Bucura
