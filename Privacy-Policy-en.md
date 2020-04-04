@@ -18,7 +18,7 @@ User can connect optionally their GitHub account. By this they gave the GitHub a
 - Access public repositories
 - Read all user profile data
 
-The main purpose for the functionality to connect this GitHub app is that by this the client is authenticated and have more GitHub API requests available because GitHub provides more API requests to authenticated clients.
+The main purpose for the functionality to connect the GitHub application 'Git-Explorer-App' is that by this the client is authenticated and have more GitHub API requests available because GitHub provides more API requests to authenticated clients.
 
 This permissions will also be listed by the GitHub page opened in the browser when user open it from the 'Pocket-Explorer' app when they connect the app with GitHub.
 
