@@ -1,7 +1,5 @@
 # Privacy Policy
 
-Last Updated: 01.04.2020
-
 This site informs you of the policies regarding of the usage and collection of personal data wihin this app. 
 
 ### Name of the Software Developer
