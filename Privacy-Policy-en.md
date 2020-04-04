@@ -26,6 +26,12 @@ If successful connected, the GitHub API is requested with a token the app gets f
 
 Some personal information about the user is requested from the official GitHub API and displayed on the user info page after user connects app with GitHub. The displayed user data (username, image, etc) is not saved locally on the disk or somehow communicated outside the app by the app. The app also links to the GitHub page where the user can see the given permission and also revoke the given permissions.
 
+Without further action by the app, the following data is transmitted to the GitHub server:
+
+- IP-address of the device
+- Date and time of client request
+- client OS and app version
+
 ### Further information about this privacy policy 
 
 This privacy policy was last updated on April 4, 2020.
