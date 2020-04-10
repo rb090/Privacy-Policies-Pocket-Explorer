@@ -26,7 +26,7 @@ This permissions will also be listed by the GitHub page opened in the browser wh
 
 If successful connected, the GitHub API is requested with a token the app gets from GitHub. This token is saved locally on the device disk in the so called UserDefaults. The data is protected by your device configuration. There is no additional encryption implemented for this.
 
-Some personal information about the user is requested from the official GitHub API and displayed on the user info page after user connects app with GitHub. The displayed user data (username, image, etc) is not saved locally on the disk or somehow communicated outside the app by the app. The app also links to the GitHub page where the user can see the given permission and also revoke the given permissions.
+Some personal information (only the public available) about the user is requested from the official GitHub API and displayed on the user info page after user connects app with GitHub. The displayed user data (username, image, etc) is not saved locally on the disk or somehow communicated outside the app by the app. The app also links to the GitHub page where the user can see the given permission and also revoke the given permissions.
 
 ### Further information about this privacy policy 
 
