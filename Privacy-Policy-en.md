@@ -15,7 +15,7 @@ This app 'Pocket-Explorer' does not track itself any user data, it does not use 
 
 The app request the GitHub API, please also read the GitHub Privacy Policies for further information: https://help.github.com/en/github/site-policy/github-privacy-statement
 
-User can connect optionally their GitHub account. For this a GitHub application was created on GitHub named 'Git-Explorer-App', user gave the following permissions by authorizing this GitHub app:
+User can connect optionally their GitHub account. For this a 'GitHub OAuth App' was created on GitHub named 'Git-Explorer-App', user gave the following permissions by authorizing this GitHub app:
 
 - Access public repositories
 - Read all user profile data
@@ -30,6 +30,6 @@ Some personal information about the user is requested from the official GitHub A
 
 ### Further information about this privacy policy 
 
-This privacy policy was last updated on April 4, 2020.
+This privacy policy was last updated on April 11, 2020.
 Due to technical developments and / or due to changed legal requirements, it may be necessary to adapt this data protection information. The current data protection declaration can be found at https://github.com/rb090/Privacy-Policies-Pocket-Explorer/blob/master/Privacy-Policy-en.md
 
